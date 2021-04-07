@@ -4,8 +4,9 @@ Student at University of Brasilia
 [![Linkedin Badge](https://img.shields.io/badge/-Oliveira%20Cleidson-041dec?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleidson-oliveira-10a053168/)](https://www.linkedin.com/in/cleidson-oliveira-10a053168/) 
 [![Gmail Badge](https://img.shields.io/badge/-gk.cleidson@yahoo.com.br-041dec?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gk.cleidson@yahoo.com.br)](mailto:gk.cleidson@yahoo.com.br)
 
-I use NestJS, ReactJS and React Native, I'm specializing in backend and DevOps, with the ambition to become a full cycle developer 
+I use NestJS, ReactJS and React Native, I'm specializing in backend and DevOps, with the ambition to become a full cycle developer
 
+I work for a Fintech called Teddy Soluções and two other startups in the hospitality and sales process automation business. 
 
 
 <!--
